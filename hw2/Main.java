@@ -1,8 +1,7 @@
 package taxes;
 
-class hh2 {
-
-    static void main() {
+public class Main {
+    public static void main() {
         System.out.println("Denis Gladkov");
         int income = 44000;
         int spending = 30000;
