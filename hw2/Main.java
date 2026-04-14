@@ -1,7 +1,7 @@
-package taxes;
+package hw2;
 
 public class Main {
-    public static void main() {
+    public static void main(String[] args) {
         System.out.println("Denis Gladkov");
         int income = 44000;
         int spending = 30000;
