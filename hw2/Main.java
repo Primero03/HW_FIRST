@@ -9,10 +9,6 @@ public class Main {
         System.out.println("_____________________________________");
         int[][] rotatedColors = rotated(SIZE, colors);
         print(rotatedColors);
-
-        rotated(SIZE, colors);
-
-
     }
 
     public static void print(int[][] matrix) {
