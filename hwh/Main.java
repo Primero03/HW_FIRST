@@ -3,7 +3,7 @@ package hwh;
 import java.util.Scanner;
 
 public class Main {
-    static void main() {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         TaxSystem tx = new TaxSystem();
         taxes6 tax6 = new taxes6();
